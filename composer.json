@@ -1,0 +1,19 @@
+{
+    "name": "ashraf/laravel-tap-payment",
+    "description": "Tap Payment SDK Package for Laravel",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ashraf\\LaravelTapPayment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elbayoumi",
+            "email": "mohamedashrafelbayoumi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
